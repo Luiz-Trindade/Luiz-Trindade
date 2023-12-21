@@ -4,11 +4,11 @@ Welcome to my coding corner! I'm Luiz Gabriel, a passionate computer science stu
 
 ## 🌱 About Me
 - 🎓 Studying Computer Science
-- 💡 Enthusiastic about Python and C
+- 💡 Enthusiastic about Python, C and C#
 - 📚 Always in pursuit of knowledge
 - 🚀 Constantly evolving in the world of coding
 
 ## 🛠️ Skills
-- **Languages:** Python, C
+- **Languages:** Python, C, C#
 
 Feel free to explore my repositories and join me on this exciting coding journey! 🚀
