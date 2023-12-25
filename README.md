@@ -4,7 +4,7 @@ Welcome to my coding corner! I'm Luiz Gabriel, a passionate computer science stu
 
 ## 🌱 About Me
 - 🎓 Studying Computer Science
-- 💡 Enthusiastic about Python, C and C#
+- 💡 Enthusiastic about Python, C and Java
 - 📚 Always in pursuit of knowledge
 - 🚀 Constantly evolving in the world of coding
 
