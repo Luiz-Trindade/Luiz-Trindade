@@ -9,6 +9,6 @@ Welcome to my coding corner! I'm Luiz Gabriel, a passionate computer science stu
 - 🚀 Constantly evolving in the world of coding
 
 ## 🛠️ Skills
-- **Languages:** Python, C, Java
+- **Languages:** Python, C, javascript, php and Java
 
 Feel free to explore my repositories and join me on this exciting coding journey! 🚀
