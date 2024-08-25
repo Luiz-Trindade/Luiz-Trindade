@@ -1,6 +1,6 @@
 # 👋 Olá, Mundo! Sou Luiz Gabriel Magalhães Trindade
 
-Bem-vindo ao meu cantinho da programação! Sou Luiz Gabriel, um estudante apaixonado por ciência da computação, atualmente no meu 4º semestre. 🚀 Adoro o entusiasmo de aprender e explorar o vasto mundo da programação.
+Bem-vindo a minha página no github! Sou Luiz Gabriel, estagiário em programação fullstack e um estudante apaixonado por ciência da computação, atualmente no meu 4º semestre. 🚀 Adoro o entusiasmo de aprender e explorar o vasto mundo da programação.
 
 ## 🌱 Sobre Mim
 - 🎓 Estudante de Ciência da Computação
