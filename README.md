@@ -15,4 +15,5 @@ Sinta-se à vontade para explorar meus repositórios e se juntar a mim nesta emp
 
 ## Doação via PIX (Chave Aleatória)
 <image src="dev_pix.png">
+  
 ## 2d547c05-a7ae-4f5b-a868-33347fa6adcd
