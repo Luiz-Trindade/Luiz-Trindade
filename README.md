@@ -12,3 +12,6 @@ Bem-vindo ao meu cantinho da programação! Sou Luiz Gabriel, um estudante apaix
 - **Linguagens:** Python, C, JavaScript, PHP, Java, VueJS.
 
 Sinta-se à vontade para explorar meus repositórios e se juntar a mim nesta empolgante jornada de programação! 🚀
+
+## Doação via PIX
+<image src="dev_pix.png">
