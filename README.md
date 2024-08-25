@@ -1,14 +1,14 @@
-# 👋 Hello, World! I'm Luiz Gabriel Magalhães Trindade
+# 👋 Olá, Mundo! Sou Luiz Gabriel Magalhães Trindade
 
-Welcome to my coding corner! I'm Luiz Gabriel, a passionate computer science student currently in my 3nd semester. 🚀 I thrive on the thrill of learning and exploring the vast world of programming.
+Bem-vindo ao meu cantinho da programação! Sou Luiz Gabriel, um estudante apaixonado por ciência da computação, atualmente no meu 4º semestre. 🚀 Adoro o entusiasmo de aprender e explorar o vasto mundo da programação.
 
-## 🌱 About Me
-- 🎓 Studying Computer Science
-- 💡 Enthusiastic about Python, C and Java
-- 📚 Always in pursuit of knowledge
-- 🚀 Constantly evolving in the world of coding
+## 🌱 Sobre Mim
+- 🎓 Estudante de Ciência da Computação
+- 💡 Entusiasta de Python, C e Java
+- 📚 Sempre em busca de conhecimento
+- 🚀 Em constante evolução no mundo da programação
 
-## 🛠️ Skills
-- **Languages:** Python, C, JavaScript, PHP, Java, VueJS. 
+## 🛠️ Habilidades
+- **Linguagens:** Python, C, JavaScript, PHP, Java, VueJS.
 
-Feel free to explore my repositories and join me on this exciting coding journey! 🚀
+Sinta-se à vontade para explorar meus repositórios e se juntar a mim nesta empolgante jornada de programação! 🚀
