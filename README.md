@@ -13,5 +13,6 @@ Bem-vindo a minha página no github! Sou Luiz Gabriel, estagiário em programaç
 
 Sinta-se à vontade para explorar meus repositórios e se juntar a mim nesta empolgante jornada de programação! 🚀
 
-## Doação via PIX
+## Doação via PIX (Chave Aleatória)
+2d547c05-a7ae-4f5b-a868-33347fa6adcd
 <image src="dev_pix.png">
