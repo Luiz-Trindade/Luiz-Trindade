@@ -1,17 +1,20 @@
-# 👋 Olá, Mundo! Sou Luiz Gabriel Magalhães Trindade
+# 👋 Hello, World! I'm Luiz Gabriel Magalhães Trindade
 
-Bem-vindo a minha página no github! Sou Luiz Gabriel, estagiário em programação fullstack e um estudante apaixonado por ciência da computação, atualmente no meu 4º semestre. 🚀 Adoro o entusiasmo de aprender e explorar o vasto mundo da programação.
+Welcome to my GitHub! I'm Luiz Gabriel, a junior programmer and a Computer Science student. 🚀 I have a great passion for learning and exploring new technologies in the programming world.
 
-## 🌱 Sobre Mim
-- 🎓 Estudante de Ciência da Computação
-- 💡 Entusiasta de Python, C e Java
-- 📚 Sempre em busca de conhecimento
-- 🚀 Em constante evolução no mundo da programação
+## 🌱 About Me
+- 🎓 Computer Science Student
+- 💻 Junior Programmer
+- 📚 Always seeking new knowledge
 
-## 🛠️ Habilidades
-- **Linguagens:** Python, C, JavaScript, PHP, Java, VueJS.
+## 🛠️ Skills
+- **Languages and Skills:** Python, Vue, JavaScript, PHP, Redis, MySQL, Docker, Node.js, Fastapi
 
-Sinta-se à vontade para explorar meus repositórios e se juntar a mim nesta empolgante jornada de programação! 🚀
+## 📈 Current Projects
+- **CryptoMind:** A technical analysis bot for cryptocurrencies, providing buy, sell, or hold recommendations based on real-time market data. 🧠💰
+- **News App:** A simple news app integrated with NewsAPI for live news updates. 📰📱
+
+Feel free to explore my repositories and follow along with my programming journey! 🚀
 
 ## Doação via PIX (Chave Aleatória)
 <image src="dev_pix.png">
