@@ -1,57 +1,63 @@
-# 👋 Hello, World! I'm Luiz Gabriel Magalhães Trindade
+# 👋 Olá, mundo! Eu sou Luiz Gabriel Magalhães Trindade
 
-Welcome to my GitHub! I'm Luiz Gabriel, a junior full-stack programmer and a Computer Science student from Belém, Pará. 🚀 I have a great passion for learning and exploring new technologies in the programming world.
+Seja bem-vindo(a) ao meu cantinho no GitHub! 🎉  
+Sou **Full Stack Júnior** e estudante de **Ciência da Computação** em Belém, Pará. 🏞️  
+Movido pela curiosidade, amo explorar novas tecnologias e transformar ideias em código. 🚀
 
 <p align="left">
   <a href="https://github.com/Luiz-Trindade?tab=repositories&sort=stargazers">
     <img
-      alt="Total de estrelas"
-      title="Total de estrelas GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/Luiz-Trindade?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+      alt="Estrelas no GitHub"
+      title="Estrelas no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/Luiz-Trindade?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
     />
   </a>
   <a href="https://github.com/Luiz-Trindade?tab=followers">
     <img
       alt="Seguidores"
-      title="Me siga no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/Luiz-Trindade?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores"
+      title="Seguidores no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/Luiz-Trindade?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores"
     />
   </a>
 </p>
 
 ---
 
-## 🌱 About Me
-- 🎓 Computer Science Student  
-- 💻 Junior Full‑Stack Programmer  
-- 📚 Always seeking new knowledge and hands‑on practice  
+## 🌱 Sobre mim
+
+- 🎓 Estudante de Ciência da Computação  
+- 💻 Desenvolvedor Full Stack Júnior  
+- 📚 Apaixonado por aprendizado contínuo  
+- 💡 Gosto de experimentar frameworks, linguagens e arquiteturas  
 
 ---
 
-## 🛠️ Skills
+## 🔧 Tecnologias & Ferramentas
 
 <p align="left">
-  <img align="left" alt="Python"      title="Python"      width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="left" alt="Vue"         title="Vue.js"      width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="left" alt="JavaScript"  title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="PHP"         title="PHP"         width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="left" alt="Redis"       title="Redis"       width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img align="left" alt="MySQL"       title="MySQL"       width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="left" alt="Docker"      title="Docker"      width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="left" alt="Node.js"     title="Node.js"     width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="FastAPI"     title="FastAPI"     width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"       title="Python" width="35px" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"         title="Vue.js" width="35px" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="35px" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"             title="PHP" width="35px" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"         title="Redis" width="35px" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"         title="MySQL" width="35px" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"       title="Docker" width="35px" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"       title="Node.js" width="35px" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"     title="FastAPI" width="35px" style="margin-right:10px;" />
 </p>
-<br /><br />
 
 ---
 
-## 📈 Current Projects
-- **CryptoMind:** A technical analysis bot for cryptocurrencies, providing buy, sell, or hold recommendations based on real-time market data. 🧠💰  
-- **News App:** A simple news app integrated with NewsAPI for live news updates. 📰📱  
+## 🚀 Projetos em destaque
+
+- **CryptoMind** 🧠  
+  Bot de análise técnica de criptomoedas: recomenda comprar, vender ou manter com base em dados ao vivo.  
+- **News App** 📰  
+  Aplicativo móvel integrado à NewsAPI, exibindo notícias em tempo real com design clean e responsivo.  
 
 ---
 
-## 📊 Estatísticas
+## 📊 Minhas estatísticas
 
 <table>
   <tr>
@@ -74,15 +80,17 @@ Welcome to my GitHub! I'm Luiz Gabriel, a junior full-stack programmer and a Com
 
 ---
 
-## 💖 Doação via PIX
+## 💖 Apoie via PIX
 
 <p align="center">
   <img alt="PIX QR Code" src="dev_pix.png" width="200" />
 </p>
 
-**Chave Aleatória:** `2d547c05-a7ae-4f5b-a868-33347fa6adcd`
+**Chave aleatória:** `2d547c05-a7ae-4f5b-a868-33347fa6adcd`
 
 ---
 
-Feel free to explore my repositories and follow along with my programming journey! 🚀  
-Connect with me on GitHub: [@Luiz-Trindade](https://github.com/Luiz-Trindade)  
+## 🤝 Vamos conectar?
+
+Explore meus repositórios, deixe uma ⭐ e acompanhe minha jornada!  
+🔗 [@Luiz-Trindade no GitHub](https://github.com/Luiz-Trindade)
