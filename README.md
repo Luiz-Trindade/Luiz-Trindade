@@ -65,14 +65,14 @@ Movido pela curiosidade, amo explorar novas tecnologias e transformar ideias em 
       <img
         alt="GitHub Stats"
         height="180"
-        src="https://github-readme-stats.vercel.app/api?username=Luiz-Trindade&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=Luiz-Trindade&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
       />
     </td>
     <td style="border: none;">
       <img
         alt="Top Langs"
         height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Trindade&theme=radical&layout=compact&langs_count=7"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Trindade&theme=radical&layout=compact&langs_count=10"
       />
     </td>
   </tr>
