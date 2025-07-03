@@ -64,14 +64,14 @@ Movido pela curiosidade, amo explorar novas tecnologias e transformar ideias em 
     <td style="border: none;">
       <img
         alt="GitHub Stats"
-        height="180"
+        height="200"
         src="https://github-readme-stats.vercel.app/api?username=Luiz-Trindade&show_icons=true&theme=radical&locale=pt-br"
       />
     </td>
     <td style="border: none;">
       <img
         alt="Top Langs"
-        height="180"
+        height="200"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Trindade&theme=radical&layout=compact&langs_count=10"
       />
     </td>
