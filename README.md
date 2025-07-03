@@ -65,7 +65,7 @@ Movido pela curiosidade, amo explorar novas tecnologias e transformar ideias em 
       <img
         alt="GitHub Stats"
         height="180"
-        src="https://github-readme-stats.vercel.app/api?username=Luiz-Trindade&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=Luiz-Trindade&show_icons=true&theme=radical&locale=pt-br"
       />
     </td>
     <td style="border: none;">
