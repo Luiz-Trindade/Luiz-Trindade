@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
+<div align="justify">
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,7 +72,7 @@
 
 ### 💼 Professional Skills
 
-<div align="center">
+<div align="justify">
 
 ```yaml
 DevOps & Infrastructure:
