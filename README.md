@@ -181,25 +181,6 @@ print(me.deploy_to_production())
 
 ---
 
-## 💖 Apoie Meu Trabalho
-
-<div align="center">
-
-Se você gostou dos meus projetos e quer apoiar meu trabalho, considere fazer uma doação via PIX! 🙏
-
-<picture>
-  <img alt="PIX QR Code" src="dev_pix.png" width="250"/>
-</picture>
-
-**🔑 Chave PIX (Aleatória):**
-```
-2d547c05-a7ae-4f5b-a868-33347fa6adcd
-```
-
-</div>
-
----
-
 ## 🤝 Vamos Conectar?
 
 <div align="center">
