@@ -34,26 +34,13 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Projeto | Descrição | Stack |
-|:---:|:---|:---:|
-| **🧠 CryptoMind** | Bot de análise técnica com IA para criptomoedas | `Python` `AI` `APIs` |
-| **📰 News App** | Agregador de notícias em tempo real | `Vue.js` `JavaScript` |
-
-</div>
-
----
-
 ## 🌐 Connect with me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Luiz-Trindade)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-trindade)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-trindade-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luiz.gabriel.m.trindade@gmail.com)
 
 </div>
 
