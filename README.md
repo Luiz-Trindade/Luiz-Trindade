@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=435&lines=Luiz+Gabriel+Magalhães+Trindade;Full+Stack+Developer;AI+Enthusiast;DevOps" alt="Typing SVG" />
+# 👋 Luiz Gabriel Magalhães Trindade
 
-<br>
+### Full Stack Developer · AI Enthusiast · DevOps
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Luiz-Trindade&color=0e75b6&style=flat&label=👁️+Views)](https://github.com/Luiz-Trindade)
 [![Followers](https://img.shields.io/github/followers/Luiz-Trindade?label=👥+Followers&style=flat&color=236ad3)](https://github.com/Luiz-Trindade)
