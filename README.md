@@ -138,12 +138,6 @@ Grandes mentes da computação compartilham dessa visão:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Trindade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-
-</div>
-
-<div align="center">
-
 ![Streak](https://streak-stats.demolab.com/?user=Luiz-Trindade&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
